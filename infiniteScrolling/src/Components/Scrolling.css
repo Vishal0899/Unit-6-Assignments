@@ -1,0 +1,11 @@
+.Box{
+    height: 700px;
+    /* width: 600px; */
+    overflow: auto;
+}
+
+.box{
+    height: 30px;
+    /* width: 2000px; */
+    /* background-color: coral; */
+}
